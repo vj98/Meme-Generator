@@ -1,0 +1,38 @@
+#heavy {
+  fill: black !important;
+  font-size: 25px;
+}
+
+.svg {
+  width: 500px !important;
+}
+
+@media only screen and (max-width: 1024px) {
+  .svg {
+    width: 450px !important;
+  }
+}
+
+@media only screen and (max-width: 844px) {
+  .svg {
+    width: 350px !important;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .svg {
+    width: 320px !important;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .svg {
+    width: 500px !important;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .svg {
+    width: 350px !important;
+  }
+}
